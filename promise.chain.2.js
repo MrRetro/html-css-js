@@ -20,14 +20,22 @@ const promiseCreatorList = [
 let promise = new Promise(resolve=>{
   resolve()
 })
-
+// 解法一
 Promise.chain = arr =>{
   let first = promise
-  for(item of arr){
+  for(let item of arr){
     (item =>{
       first = first.then(resolve=>item(resolve=>resolve()))
     })(item)
   }
 }
 // Promise.chain(promiseCreatorList)
+
+// 解法二
+// Promise.chainAsync = arr =>{
+//   for(let item of arr){
+//     await item()
+//   }
+// }
+// Promise.chainAsync(promiseCreatorList)
 
