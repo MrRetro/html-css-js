@@ -17,14 +17,8 @@ const promiseCreatorList = [
   promiseCreator2,
 ];
 
-let promise = new Promise(resolve=>{
-  resolve()
-})
-
-Promise.chain = arr =>{
-  arr.reduce((first, second)=>{
-    return first.then(resolve=>second(resolve=>resolve()))
-  }, promise)
+Promise.chain = arr => {
+  arr.reduce((first, second)=>first.then(second), Promise.resolve())
 }
 // Promise.chain(promiseCreatorList)
 
