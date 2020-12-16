@@ -91,7 +91,7 @@ promiseInstance
         console.log('promise.reject')
         return '123'
     })
-    .then(null, ()=>{return '123'})
+    .then(null, ()=>{return '456'})
     .then(resolve=>console.log('resolve==>', resolve), (reject)=>console.log('reject=>', reject))
 
 // Promise.all([createPromise(2000), createPromise(1000)])
