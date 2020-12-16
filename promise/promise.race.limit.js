@@ -8,7 +8,8 @@ Promise.raceLimit = (list, limit = 1) => {
         let count = 0
         let arr = []
 
-        const nextRun = () => {
+        const nextRun = value => {
+            console.log(`${value}.当前队列有${count}正在执行 未处理Promise剩余${arr.length}`)
             count--
             if(arr.length){
                 count++
@@ -18,14 +19,11 @@ Promise.raceLimit = (list, limit = 1) => {
 
         const run = value => {
             Promise.resolve(value).then(res => {
-                console.log(`当前队列有${count}正在执行 未处理Promise剩余${arr.length}`)
-                nextRun()
-                resolve(res)
+                nextRun(res)
             }, err => {
-                reject(err)
-                nextRun()
-            }).catch(() => {
-                nextRun()
+                nextRun(err)
+            }).catch((err) => {
+                nextRun(err)
             })
         }
 
@@ -40,8 +38,8 @@ Promise.raceLimit = (list, limit = 1) => {
     })
 }
 Promise.raceLimit([
-    new Promise((resolve => setTimeout(()=>resolve(1), 100))),
-    new Promise((resolve => setTimeout(()=>resolve(2), 200))),
-    new Promise((resolve => setTimeout(()=>resolve(3), 100))),
-    new Promise((resolve => setTimeout(()=>resolve(4), 100))),
-], 1)
+    new Promise((resolve,reject) => setTimeout(()=>reject(1), 100)),
+    new Promise(resolve => setTimeout(()=>resolve(2), 200)),
+    new Promise(resolve => setTimeout(()=>resolve(3), 100)),
+    new Promise(resolve => setTimeout(()=>resolve(4), 100)),
+], 2)
