@@ -8,7 +8,7 @@ import PreviewComp from './index.vue'
 let instance = null
 const getInstance = () => {
     if(!instance) {
-        // 将组件通过Vue挂在到页面上
+        // 将组件通过Vue挂载到页面上
         const PreviewConstructor = Vue.extend(PreviewComp)
         instance = new PreviewConstructor()
         instance.$mount(document.createElement('div'))
