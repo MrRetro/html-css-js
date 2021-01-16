@@ -14,3 +14,13 @@ function getUrl2Object({url}){
 }
 
 getUrl2Object({url: 'https://www.o-wu.com?a=1&b=2&c=3'})
+
+// meitu面试题
+// 参数 obj = {a: 1, b: 2}
+// 参数 temp = 'this is a = {{ a }}, b = {{ b }}'
+// 输出 'this is a = 1, b = 2'
+function replace(temp, obj){
+    return temp.replace(/{{\s*(\w+)\s*}}/g, function(match, $1) {
+        return obj[$1];
+    })
+}
