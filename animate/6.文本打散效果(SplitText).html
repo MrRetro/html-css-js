@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TweenMax</title>
+    <script type="text/javascript" src="js/TweenMax.min.js"></script>
+    <script type="text/javascript" src="js/DrawSVGPlugin.min.js"></script>
+    <script type="text/javascript" src="js/MorphSVGPlugin.min.js"></script>
+    <script type="text/javascript" src="js/Physics2DPlugin.min.js"></script>
+    <script type="text/javascript" src="js/PhysicsPropsPlugin.min.js"></script>
+    <script type="text/javascript" src="js/ScrambleTextPlugin.min.js"></script>
+    <script type="text/javascript" src="js/SplitText.min.js"></script>
+</head>
+<body>
+    <div id="text">拟把疏狂图一醉。对酒当歌，强乐还无味。衣带渐宽终不悔。为伊消得人憔悴。</div>
+    <script>
+        mySplitText = new SplitText("#text", {type:"chars"});
+        chars = mySplitText.chars;
+        TweenMax.set("#text", {perspective:400});
+        TweenMax.staggerFrom(
+            chars, 0.8,
+            {
+                opacity:0,
+                scale:0,
+                y:80,
+                rotationX:180,
+                transformOrigin:"0% 50% -50",
+                ease:Back.easeOut
+            },
+            0.01
+        );
+    </script>
+</body>
+</html>

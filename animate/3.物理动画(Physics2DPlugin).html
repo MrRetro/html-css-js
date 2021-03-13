@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TweenMax</title>
+    <style>
+        #obj{
+            width:20px;
+            height:20px;
+            border-radius:100%;
+            background:#090;
+            margin-top:200px;
+        }
+    </style>
+    <script type="text/javascript" src="js/TweenMax.min.js"></script>
+    <script type="text/javascript" src="js/DrawSVGPlugin.min.js"></script>
+    <script type="text/javascript" src="js/MorphSVGPlugin.min.js"></script>
+    <script type="text/javascript" src="js/Physics2DPlugin.min.js"></script>
+    <script type="text/javascript" src="js/PhysicsPropsPlugin.min.js"></script>
+    <script type="text/javascript" src="js/ScrambleTextPlugin.min.js"></script>
+    <script type="text/javascript" src="js/SplitText.min.js"></script>
+</head>
+<body>
+    <div id="obj"></div>
+    <script>
+        TweenMax.to("#obj", 2.5, {physics2D:{velocity:500, angle:300, gravity:500},repeat: -1,});
+    </script>
+</body>
+</html>

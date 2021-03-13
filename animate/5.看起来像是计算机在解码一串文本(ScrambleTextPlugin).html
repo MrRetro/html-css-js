@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TweenMax</title>
+    <style>
+        .class1{
+            color:#6fb936;
+        }
+        .class2{
+            color:#f38630;
+        }
+    </style>
+    <script type="text/javascript" src="js/TweenMax.min.js"></script>
+    <script type="text/javascript" src="js/DrawSVGPlugin.min.js"></script>
+    <script type="text/javascript" src="js/MorphSVGPlugin.min.js"></script>
+    <script type="text/javascript" src="js/Physics2DPlugin.min.js"></script>
+    <script type="text/javascript" src="js/PhysicsPropsPlugin.min.js"></script>
+    <script type="text/javascript" src="js/ScrambleTextPlugin.min.js"></script>
+    <script type="text/javascript" src="js/SplitText.min.js"></script>
+</head>
+<body>
+    <div id="react"></div>
+    <script>
+        let div = document.getElementById('react')
+        let tl = new TimelineMax({repeat:0});
+        tl.to(div,10,{
+            scrambleText:{
+                text:"看起来像是计算机在解码一串文本。",
+                chars:"upperAndLowerCase",
+                revealDelay:0.5,
+                tweenLength:true,
+                newClass:"class2",
+                oldClass:"class1"
+            },
+            ease:Linear.easeNone
+        });
+    </script>
+</body>
+</html>

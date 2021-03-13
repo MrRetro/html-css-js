@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TweenMax</title>
+    <script type="text/javascript" src="../js/TweenMax.min.js"></script>
+    <script type="text/javascript" src="../js/DrawSVGPlugin.min.js"></script>
+    <script type="text/javascript" src="../js/MorphSVGPlugin.min.js"></script>
+    <script type="text/javascript" src="../js/Physics2DPlugin.min.js"></script>
+    <script type="text/javascript" src="../js/PhysicsPropsPlugin.min.js"></script>
+    <script type="text/javascript" src="../js/ScrambleTextPlugin.min.js"></script>
+    <script type="text/javascript" src="../js/SplitText.min.js"></script>
+</head>
+<body>
+    <div id="react">
+        <svg
+             id="search"
+             t="1613716585754"
+             class="icon"
+             viewBox="0 0 1024 1024"
+             version="1.1"
+             xmlns="http://www.w3.org/2000/svg"
+             p-id="949"
+             xmlns:xlink="http://www.w3.org/1999/xlink"
+             width="20" height="20">
+            <defs>
+                <style type="text/css"></style>
+            </defs>
+            <path d="M427.053227 0a426.666667 426.666667 0 0 1 330.325333 696.661333l254.293333 254.122667a42.666667 42.666667 0 0 1-54.442666 65.28l-5.973334-4.949333-254.208-254.122667A426.666667 426.666667 0 1 1 427.053227 0z m0 85.333333a341.333333 341.333333 0 1 0 0 682.666667 341.333333 341.333333 0 0 0 0-682.666667z"
+                  fill="#1F2E4D"
+                  p-id="950">
+            </path>
+        </svg>
+    </div>
+    <script>
+        TweenMax.from("#search", 0.5, {
+            scaleX: 0,
+            scaleY: 0,
+            transformOrigin: "right",
+            ease: Back.easeOut
+        });
+    </script>
+</body>
+</html>
