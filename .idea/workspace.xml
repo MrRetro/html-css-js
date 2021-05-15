@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7688f19f-474e-47dc-8439-298557372028" name="Default Changelist" comment="feat:设计模式 &amp; electron" />
+    <list default="true" id="7688f19f-474e-47dc-8439-298557372028" name="Default Changelist" comment="feat:设计模式 &amp; electron">
+      <change afterPath="$PROJECT_DIR$/designMode/停车场设计图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designMode/设计模式解析与实战.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -22,9 +26,21 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/virsuallist/.gitignore">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/designMode/设计模式解析与实战.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="149">
+                <caret line="44" column="13" lean-forward="true" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -110,6 +126,7 @@
         <option value="$PROJECT_DIR$/electronTest/package.json" />
         <option value="$PROJECT_DIR$/electronTest/index.html" />
         <option value="$PROJECT_DIR$/designMode/park.js" />
+        <option value="$PROJECT_DIR$/designMode/设计模式解析与实战.md" />
       </list>
     </option>
   </component>
@@ -198,7 +215,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/designMode" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/designMode" />
       <recent name="$PROJECT_DIR$/proxy" />
       <recent name="$PROJECT_DIR$/promise" />
     </key>
@@ -282,7 +303,7 @@
       <workItem from="1620571481766" duration="17000" />
       <workItem from="1620572334656" duration="388000" />
       <workItem from="1620579495506" duration="353000" />
-      <workItem from="1621094184185" duration="5620000" />
+      <workItem from="1621094184185" duration="5988000" />
     </task>
     <task id="LOCAL-00001" summary="feat:Esmodule导入导出关系">
       <created>1607914221438</created>
@@ -365,10 +386,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78598000" />
+    <option name="totallyTimeSpent" value="78966000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="326" y="350" width="1025" height="470" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.489426" visible="true" weight="0.23702951" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -715,6 +737,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/virsuallist/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designMode/设计模式解析与实战.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="149">
+            <caret line="44" column="13" lean-forward="true" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
