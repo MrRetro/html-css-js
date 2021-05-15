@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7688f19f-474e-47dc-8439-298557372028" name="Default Changelist" comment="" />
+    <list default="true" id="7688f19f-474e-47dc-8439-298557372028" name="Default Changelist" comment="feat:设计模式 &amp; electron" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,10 +16,15 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/electronTest/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/virsuallist/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -31,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/designMode/park.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="52" lean-forward="true" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+            <state relative-caret-position="255">
+              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -125,6 +130,56 @@
             <path>
               <item name="html-css-js" type="b2602c69:ProjectViewProjectNode" />
               <item name="html-css-js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-css-js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-css-js" type="462c0819:PsiDirectoryNode" />
+              <item name="designMode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-css-js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-css-js" type="462c0819:PsiDirectoryNode" />
+              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-css-js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-css-js" type="462c0819:PsiDirectoryNode" />
+              <item name="domEvent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-css-js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-css-js" type="462c0819:PsiDirectoryNode" />
+              <item name="electronTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-css-js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-css-js" type="462c0819:PsiDirectoryNode" />
+              <item name="module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-css-js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-css-js" type="462c0819:PsiDirectoryNode" />
+              <item name="promise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-css-js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-css-js" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-css-js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-css-js" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-css-js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-css-js" type="462c0819:PsiDirectoryNode" />
+              <item name="virsuallist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-css-js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-css-js" type="462c0819:PsiDirectoryNode" />
+              <item name="vueplugin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -227,7 +282,7 @@
       <workItem from="1620571481766" duration="17000" />
       <workItem from="1620572334656" duration="388000" />
       <workItem from="1620579495506" duration="353000" />
-      <workItem from="1621094184185" duration="5372000" />
+      <workItem from="1621094184185" duration="5620000" />
     </task>
     <task id="LOCAL-00001" summary="feat:Esmodule导入导出关系">
       <created>1607914221438</created>
@@ -310,12 +365,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78350000" />
+    <option name="totallyTimeSpent" value="78598000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1680" height="940" extended-state="6" />
+    <frame x="326" y="350" width="1025" height="470" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.489426" visible="true" weight="0.14224665" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.489426" visible="true" weight="0.23702951" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="npm" order="3" sideWeight="0.51057404" side_tool="true" weight="0.198939" />
@@ -637,13 +692,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/electronTest/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/electronTest/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -653,10 +701,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/designMode/park.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="52" lean-forward="true" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+        <state relative-caret-position="255">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/electronTest/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/virsuallist/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
