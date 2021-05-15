@@ -1,0 +1,10 @@
+{
+  "name": "mvue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "cbbfcd",
+  "license": "MIT",
+  "dependencies": {
+    "@vue/reactivity": "^3.0.7"
+  }
+}
