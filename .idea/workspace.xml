@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7688f19f-474e-47dc-8439-298557372028" name="Default Changelist" comment="feat:设计模式 &amp; electron" />
+    <list default="true" id="7688f19f-474e-47dc-8439-298557372028" name="Default Changelist" comment="feat:设计模式 &amp; electron">
+      <change beforePath="$PROJECT_DIR$/designMode/设计模式解析与实战.md" beforeDir="false" afterPath="$PROJECT_DIR$/designMode/设计模式解析与实战.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -31,8 +33,8 @@
         <entry file="file://$PROJECT_DIR$/designMode/设计模式解析与实战.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="251">
-                <caret line="50" column="7" lean-forward="true" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="68" />
+              <first_editor relative-caret-position="183">
+                <caret line="46" column="4" lean-forward="true" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -299,7 +301,7 @@
       <workItem from="1620571481766" duration="17000" />
       <workItem from="1620572334656" duration="388000" />
       <workItem from="1620579495506" duration="353000" />
-      <workItem from="1621094184185" duration="6372000" />
+      <workItem from="1621094184185" duration="6515000" />
     </task>
     <task id="LOCAL-00001" summary="feat:Esmodule导入导出关系">
       <created>1607914221438</created>
@@ -382,7 +384,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79350000" />
+    <option name="totallyTimeSpent" value="79493000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="326" y="350" width="1219" height="555" extended-state="0" />
@@ -737,8 +739,8 @@
     <entry file="file://$PROJECT_DIR$/designMode/设计模式解析与实战.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="251">
-            <caret line="50" column="7" lean-forward="true" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="68" />
+          <first_editor relative-caret-position="183">
+            <caret line="46" column="4" lean-forward="true" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
