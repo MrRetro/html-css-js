@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7688f19f-474e-47dc-8439-298557372028" name="Default Changelist" comment="feat:设计模式 &amp; electron" />
+    <list default="true" id="7688f19f-474e-47dc-8439-298557372028" name="Default Changelist" comment="feat:设计模式 &amp; electron">
+      <change afterPath="$PROJECT_DIR$/routerQueryEncrypt/src/router/utils/encryption.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routerQueryEncrypt/src/router/utils/query.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuepress2/docs/.vuepress/components/One.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuepress2/docs/.vuepress/components/comments.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuepress2/docs/.vuepress/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuepress2/docs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuepress2/docs/demo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuepress2/docs/one/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuepress2/src/files.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/189.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/212.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/33.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/36.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/371. 两整数之和.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/517. 超级洗衣机.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,45 +31,78 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/electronTest/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/virsuallist/.gitignore">
+        <entry file="file://$PROJECT_DIR$/vue3/demo/package.json">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vue3/demo/src/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/可视化/template/src/utils/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/算法/212.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/算法/36.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1071">
+              <caret line="63" column="26" lean-forward="true" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/算法/189.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/算法/33.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/算法/371. 两整数之和.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="32" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/designMode/设计模式解析与实战.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="55">
-                <caret line="34" lean-forward="true" selection-end-line="52" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/electronTest/index.html">
+        <entry file="file://$PROJECT_DIR$/算法/517. 超级洗衣机.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/designMode/park.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            <state relative-caret-position="127">
+              <caret line="83" column="32" lean-forward="true" selection-start-line="83" selection-start-column="32" selection-end-line="83" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -62,8 +112,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Vue Single File Component" />
         <option value="HTML File" />
+        <option value="Vue Single File Component" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -72,9 +122,27 @@
     <findStrings>
       <find>Promise</find>
       <find>reject</find>
+      <find>&quot;</find>
+      <find>isActive</find>
+      <find>hashRE</find>
+      <find>groupHeaders</find>
+      <find>valineRefresh</find>
+      <find>window</find>
+      <find>level</find>
+      <find>var</find>
+      <find>encode</find>
+      <find>decrypt</find>
+      <find>encrypt</find>
+      <find>getEncrypt</find>
+      <find>i</find>
+      <find>j</find>
     </findStrings>
     <replaceStrings>
       <replace>iiPromise</replace>
+      <replace>'</replace>
+      <replace>let</replace>
+      <replace>k</replace>
+      <replace>q</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -84,29 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/module/Esmodule/index.html" />
-        <option value="$PROJECT_DIR$/module/Esmodule/c.js" />
-        <option value="$PROJECT_DIR$/module/Esmodule/index.js" />
-        <option value="$PROJECT_DIR$/module/Esmodule/a.js" />
-        <option value="$PROJECT_DIR$/promise/promise-try1.js" />
-        <option value="$PROJECT_DIR$/promise/promise-try.js" />
-        <option value="$PROJECT_DIR$/promise/promise-try2.js" />
-        <option value="$PROJECT_DIR$/promise/promise-source.1.js" />
-        <option value="$PROJECT_DIR$/promise/promise-try3.js" />
-        <option value="$PROJECT_DIR$/promise/promise.race-limit.js" />
-        <option value="$PROJECT_DIR$/promise/promise.race.limit.js" />
-        <option value="$PROJECT_DIR$/domEvent/inputMax.html" />
-        <option value="$PROJECT_DIR$/domEvent/inputMax.js" />
-        <option value="$PROJECT_DIR$/domEvent/ajaxProgress.js" />
-        <option value="$PROJECT_DIR$/vueplugin/package.json" />
-        <option value="$PROJECT_DIR$/vueplugin/src/main.js" />
-        <option value="$PROJECT_DIR$/vueplugin/src/plugin/previewImg/index.vue" />
-        <option value="$PROJECT_DIR$/vueplugin/src/components/HelloWorld.vue" />
-        <option value="$PROJECT_DIR$/vueplugin/src/plugin/previewImg/index.js" />
-        <option value="$PROJECT_DIR$/babelplugin/package.json" />
-        <option value="$PROJECT_DIR$/babelplugin/output.js" />
-        <option value="$PROJECT_DIR$/babelplugin/index.js" />
-        <option value="$PROJECT_DIR$/babelplugin/.babelrc" />
         <option value="$PROJECT_DIR$/babelplugin/plugins/reverse.js" />
         <option value="$PROJECT_DIR$/domEvent/regexp.js" />
         <option value="$PROJECT_DIR$/sort/writeSort.js" />
@@ -123,14 +168,49 @@
         <option value="$PROJECT_DIR$/electronTest/index.html" />
         <option value="$PROJECT_DIR$/designMode/park.js" />
         <option value="$PROJECT_DIR$/designMode/设计模式解析与实战.md" />
+        <option value="$PROJECT_DIR$/vuepress/package.json" />
+        <option value="$PROJECT_DIR$/vuepress2/package.json" />
+        <option value="$PROJECT_DIR$/vuepress2/docs/README2.md" />
+        <option value="$PROJECT_DIR$/vuepress2/docs/README.md" />
+        <option value="$PROJECT_DIR$/vuepress2/docs/.vuepress/components/One/index.vue" />
+        <option value="$PROJECT_DIR$/elementSelect/src/main.js" />
+        <option value="$PROJECT_DIR$/elementSelect/.eslintrc.js" />
+        <option value="$PROJECT_DIR$/elementSelect/src/components/HelloWorld.vue" />
+        <option value="$PROJECT_DIR$/vuepress2/docs/one/README.md" />
+        <option value="$PROJECT_DIR$/vuepress2/docs/demo/README.md" />
+        <option value="$PROJECT_DIR$/vuepress2/docs/.vuepress/dist/README2.html" />
+        <option value="$PROJECT_DIR$/vuepress2/public/index.html" />
+        <option value="$PROJECT_DIR$/vuepress2/docs/.vuepress/components/comments.vue" />
+        <option value="$PROJECT_DIR$/vuepress2/docs/.vuepress/components/One.vue" />
+        <option value="$PROJECT_DIR$/vuepress2/docs/.vuepress/dist/index.html" />
+        <option value="$PROJECT_DIR$/vuepress2/docs/.vuepress/config.js" />
+        <option value="$PROJECT_DIR$/vuepress2/src/App.vue" />
+        <option value="$PROJECT_DIR$/vuepress2/src/files.js" />
+        <option value="$PROJECT_DIR$/../../../看板娘.html" />
+        <option value="$PROJECT_DIR$/routerQueryEncrypt/src/App.vue" />
+        <option value="$PROJECT_DIR$/routerQueryEncrypt/src/router/index.js" />
+        <option value="$PROJECT_DIR$/routerQueryEncrypt/src/router/utils/encryption.js" />
+        <option value="$PROJECT_DIR$/routerQueryEncrypt/src/router/utils/query.js" />
+        <option value="$PROJECT_DIR$/diffjs/src/App.vue" />
+        <option value="$PROJECT_DIR$/diffjs/src/main.js" />
+        <option value="$PROJECT_DIR$/../../../随机选中.html" />
+        <option value="$PROJECT_DIR$/vue3/demo/src/components/HelloWorld.vue" />
+        <option value="$PROJECT_DIR$/算法/242.js" />
+        <option value="$PROJECT_DIR$/算法/212.js" />
+        <option value="$PROJECT_DIR$/算法/36.js" />
+        <option value="$PROJECT_DIR$/算法/189.js" />
+        <option value="$PROJECT_DIR$/算法/33.js" />
+        <option value="$PROJECT_DIR$/算法/371.js" />
+        <option value="$PROJECT_DIR$/算法/371. 两整数之和.js" />
+        <option value="$PROJECT_DIR$/算法/517. 超级洗衣机.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="325" />
-    <option name="y" value="349" />
-    <option name="width" value="1219" />
-    <option name="height" value="555" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="168" />
+    <option name="y" value="68" />
+    <option name="width" value="1229" />
+    <option name="height" value="886" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -147,52 +227,7 @@
             <path>
               <item name="html-css-js" type="b2602c69:ProjectViewProjectNode" />
               <item name="html-css-js" type="462c0819:PsiDirectoryNode" />
-              <item name="designMode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html-css-js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html-css-js" type="462c0819:PsiDirectoryNode" />
-              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html-css-js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html-css-js" type="462c0819:PsiDirectoryNode" />
-              <item name="domEvent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html-css-js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html-css-js" type="462c0819:PsiDirectoryNode" />
-              <item name="electronTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html-css-js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html-css-js" type="462c0819:PsiDirectoryNode" />
-              <item name="module" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html-css-js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html-css-js" type="462c0819:PsiDirectoryNode" />
-              <item name="promise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html-css-js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html-css-js" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html-css-js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html-css-js" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html-css-js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html-css-js" type="462c0819:PsiDirectoryNode" />
-              <item name="virsuallist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html-css-js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html-css-js" type="462c0819:PsiDirectoryNode" />
-              <item name="vueplugin" type="462c0819:PsiDirectoryNode" />
+              <item name="算法" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -206,18 +241,30 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/elementSelect/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="$PROJECT_DIR$/elementSelect/node_modules/eslint" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/designMode" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vuepress2/docs/one" />
+      <recent name="$PROJECT_DIR$/vuepress2/docs" />
       <recent name="$PROJECT_DIR$/designMode" />
       <recent name="$PROJECT_DIR$/proxy" />
       <recent name="$PROJECT_DIR$/promise" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vuepress2/docs/.vuepress/components" />
+      <recent name="$PROJECT_DIR$/vuepress2/docs/test" />
+      <recent name="$PROJECT_DIR$/designMode" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -232,19 +279,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="npm.serve">
-    <configuration name="serve (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/virsuallist/package.json" />
+  <component name="RunManager" selected="npm.docs:build (1)">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/vue3/vue3Hello/package.json" />
       <command value="run" />
       <scripts>
-        <script value="serve" />
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="docs:build (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/vuepress2/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="docs:build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="docs:dev (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/vuepress2/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="docs:dev" />
       </scripts>
       <node-interpreter value="project" />
       <envs />
       <method v="2" />
     </configuration>
     <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/vueplugin/package.json" />
+      <package-json value="$PROJECT_DIR$/vuepress2/package.json" />
       <command value="run" />
       <scripts>
         <script value="serve" />
@@ -254,7 +321,7 @@
       <method v="2" />
     </configuration>
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/electronTest/package.json" />
+      <package-json value="$PROJECT_DIR$/routerQueryEncrypt/package.json" />
       <command value="run" />
       <scripts>
         <script value="start" />
@@ -265,9 +332,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.dev" />
         <item itemvalue="npm.start" />
-        <item itemvalue="npm.serve (1)" />
         <item itemvalue="npm.serve" />
+        <item itemvalue="npm.docs:build (1)" />
+        <item itemvalue="npm.docs:dev (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -300,6 +369,21 @@
       <workItem from="1620572334656" duration="388000" />
       <workItem from="1620579495506" duration="353000" />
       <workItem from="1621094184185" duration="6932000" />
+      <workItem from="1622443724768" duration="245000" />
+      <workItem from="1623917852518" duration="8776000" />
+      <workItem from="1624721443204" duration="803000" />
+      <workItem from="1625622748122" duration="9797000" />
+      <workItem from="1626248839399" duration="12972000" />
+      <workItem from="1627268051142" duration="2037000" />
+      <workItem from="1627438756900" duration="1530000" />
+      <workItem from="1628308458115" duration="6834000" />
+      <workItem from="1629427537988" duration="57000" />
+      <workItem from="1629427603567" duration="19000" />
+      <workItem from="1629427631986" duration="664000" />
+      <workItem from="1630741635000" duration="243000" />
+      <workItem from="1631085596916" duration="529000" />
+      <workItem from="1631783946715" duration="23548000" />
+      <workItem from="1633323391061" duration="609000" />
     </task>
     <task id="LOCAL-00001" summary="feat:Esmodule导入导出关系">
       <created>1607914221438</created>
@@ -382,32 +466,56 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79910000" />
+    <option name="totallyTimeSpent" value="148573000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="325" y="349" width="1219" height="555" extended-state="1" />
+    <frame x="168" y="68" width="1229" height="886" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.489426" visible="true" weight="0.19796091" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48121646" visible="true" weight="0.24684078" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info id="npm" order="3" sideWeight="0.51057404" side_tool="true" weight="0.198939" />
+      <window_info id="npm" order="3" sideWeight="0.51878357" side_tool="true" weight="0.27214515" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32993197" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3602564" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.73976606" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32948717" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.39467004" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="bottom" id="Eval Reset" order="12" weight="0.32948717" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Word Book" order="3" side_tool="true" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48121646" visible="true" weight="0.27214515" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="npm" order="3" sideWeight="0.51878357" side_tool="true" weight="0.27214515" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3602564" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32948717" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.28333333" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Word Book" order="3" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -430,317 +538,246 @@
     <option name="LAST_COMMIT_MESSAGE" value="feat:设计模式 &amp; electron" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/module/Esmodule/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/Esmodule/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/Esmodule/c.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/Esmodule/b.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/promise/promise-source.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/Esmodule/a.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/promise/promise.race.limit.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domEvent/ajaxProgress.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domEvent/inputMax.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/promise/promise-try3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
+        <state relative-caret-position="-1285" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/promise/promise-try.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1410">
-          <caret line="94" column="97" selection-start-line="76" selection-end-line="94" selection-end-column="97" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/promise/promise-source.1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="171" column="86" selection-start-line="171" selection-start-column="86" selection-end-line="171" selection-end-column="86" />
-          <folding>
-            <element signature="n#!!block;n#_resolve#0;n#Promise#0" />
-            <element signature="n#!!block;n#_reject#0;n#Promise#0" />
-            <element signature="n#!!block;n#then#0;n#Promise#0" />
-          </folding>
-        </state>
+        <state relative-caret-position="-1248" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/promise/promise-try1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/promise/promise-try2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vueplugin/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vueplugin/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/vueplugin/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domEvent/inputMax.js">
+    <entry file="file://$PROJECT_DIR$/promise/promise-try3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        <state relative-caret-position="-1564" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/代理实现控制台输入baidu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/代理实现控制台输入www.baidu.com.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-163" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vuepress/package.json" />
+    <entry file="file://$PROJECT_DIR$/vuepress/README.md" />
+    <entry file="file://$PROJECT_DIR$/routerQueryEncrypt/src/router/utils/query.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vueplugin/src/plugin/previewImg/index.vue">
+    <entry file="file://$PROJECT_DIR$/sort/writeSort.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/virsuallist/src/components/HelloWorld.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/virsuallist/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="16" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="16" />
+        <state relative-caret-position="51">
+          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vueplugin/src/App.vue">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/babelplugin/package-lock.json">
+    <entry file="file://$PROJECT_DIR$/vueplugin/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vuepress2/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/babelplugin/package.json">
+    <entry file="file://$PROJECT_DIR$/可视化/template/rollup.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        <state>
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/babelplugin/.babelrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+    <entry file="file://$PROJECT_DIR$/可视化/template/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/babelplugin/output.js">
+    <entry file="file://$PROJECT_DIR$/可视化/template/src/App.svelte">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="282">
+          <caret line="46" column="21" lean-forward="true" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/babelplugin/index.js">
+    <entry file="file://$PROJECT_DIR$/可视化/template/src/editor.svelte">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/可视化/template/src/left-component-list.svelte">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        <state relative-caret-position="-340" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/可视化/template/src/sharp.svelte">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/babelplugin/plugins/reverse.js">
+    <entry file="file://$PROJECT_DIR$/可视化/template/src/store/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/bfs.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/通用函数/common.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/通用函数/间隔时间请求直到请求成功.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/评测答案.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animate/1.svg画线(DrawSVGPlugin).html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        <state relative-caret-position="340">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/domEvent/regexp.js">
+    <entry file="file://$PROJECT_DIR$/diffjs/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        <state relative-caret-position="255">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sort/writeSort.js">
+    <entry file="file://$PROJECT_DIR$/diffjs/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/designPattern/观察者.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vueplugin/src/components/HelloWorld.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="153">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/算法/dfs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/算法/bfs.js">
+    <entry file="file://$PROJECT_DIR$/diffjs/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy/mvue/core/reactivity/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1836">
-          <caret line="141" column="33" selection-start-line="141" selection-start-column="33" selection-end-line="141" selection-end-column="33" />
+        <state relative-caret-position="221">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
           <folding>
-            <element signature="n#Dep#0" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proxy/mvue/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy/mvue/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy/mvue/homework.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy/mvue/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy/mvue/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vueplugin/src/plugin/previewImg/index.js">
+    <entry file="file://$PROJECT_DIR$/../../../随机选中.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-          <folding>
-            <element signature="e#56#77#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="217">
+          <caret line="85" column="12" selection-start-line="85" selection-start-column="12" selection-end-line="85" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vueplugin/src/main.js">
+    <entry file="file://$PROJECT_DIR$/算法/分治算法.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        <state relative-caret-position="87">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/虚拟列表/virsualList.html" />
-    <entry file="file://$PROJECT_DIR$/electronTest/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/virsuallist/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="44" column="73" selection-start-line="44" selection-start-column="73" selection-end-line="44" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/electronTest/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/designMode/park.js">
+    <entry file="file://$PROJECT_DIR$/vue3/hello-vue3/src/main.js" />
+    <entry file="file://$PROJECT_DIR$/vue3/test/package.json" />
+    <entry file="file://$PROJECT_DIR$/vue3/vue3Hello/package.json" />
+    <entry file="file://$PROJECT_DIR$/vue3/hello-vue4/package.json" />
+    <entry file="file://$PROJECT_DIR$/vue3/hello-vue3/src/components/HelloWorld.vue" />
+    <entry file="file://$PROJECT_DIR$/vue3/hello-vue3/src/App.vue" />
+    <entry file="file://$PROJECT_DIR$/vue3/hello-vue3/package.json" />
+    <entry file="file://$PROJECT_DIR$/vue3/demo/src/components/HelloWorld.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/electronTest/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/virsuallist/.gitignore">
+    <entry file="file://$PROJECT_DIR$/vue3/demo/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/designMode/设计模式解析与实战.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="55">
-            <caret line="34" lean-forward="true" selection-end-line="52" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/vue3/demo/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/可视化/template/src/utils/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/212.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/36.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" column="26" lean-forward="true" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/189.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/33.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/371. 两整数之和.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="32" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/517. 超级洗衣机.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="83" column="32" lean-forward="true" selection-start-line="83" selection-start-column="32" selection-end-line="83" selection-end-column="32" />
         </state>
       </provider>
     </entry>
