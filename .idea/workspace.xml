@@ -2,49 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7688f19f-474e-47dc-8439-298557372028" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vue3/demo/deleteFiles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueplugin/aa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueplugin/src/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueplugin/src/components/Page/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueplugin/src/components/Test/h5.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueplugin/src/components/Test/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueplugin/src/components/Test/mixin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueplugin/src/components/Test/pc.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueplugin/src/components/Test2/h5.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueplugin/src/components/Test2/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueplugin/src/components/Test2/mixin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueplugin/src/components/Test2/pc.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueplugin/src/components/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueplugin/src/config/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueplugin/src/views/Test3/h5.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueplugin/src/views/Test3/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueplugin/src/views/Test3/mixin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueplugin/src/views/Test3/pc.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueplugin/vue.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/136.只出现一次的数字.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/15.三数之和.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/160.相交链表.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/20.有效的括号.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/21.合并两个有序链表.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/211.添加与搜索单词 - 数据结构设计.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/226.翻转二叉树.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/229.求众数 II.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/299.猜数字游戏.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/476.数字的补数.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/495.提莫攻击.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/53.最大子序和.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/543.二叉树的直径.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/563.二叉树的坡度.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/7.整数反转.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/70.爬楼梯.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/8.字符串转换整数 (atoi).js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/数组平铺.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习/Node求学之路.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue3/demo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue3/demo/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vueplugin/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vueplugin/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vueplugin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vueplugin/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vueplugin/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vueplugin/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vueplugin/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vueplugin/src/main.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -56,7 +15,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/学习/Node求学之路.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="361">
+                <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -119,7 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/vueplugin/src/app.js" />
         <option value="$PROJECT_DIR$/vueplugin/src/components/Test/js.js" />
         <option value="$PROJECT_DIR$/vueplugin/src/components/Test/b.vue" />
         <option value="$PROJECT_DIR$/vueplugin/src/components/Test/test.js" />
@@ -170,10 +141,11 @@
         <option value="$PROJECT_DIR$/算法/563.二叉树的坡度.js" />
         <option value="$PROJECT_DIR$/算法/数组平铺.js" />
         <option value="$PROJECT_DIR$/算法/1405.最长快乐字符串.js" />
+        <option value="$PROJECT_DIR$/学习/Node求学之路.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="83" />
     <option name="y" value="28" />
     <option name="width" value="1473" />
@@ -195,12 +167,7 @@
             <path>
               <item name="html-css-js" type="b2602c69:ProjectViewProjectNode" />
               <item name="html-css-js" type="462c0819:PsiDirectoryNode" />
-              <item name="word2html" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html-css-js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html-css-js" type="462c0819:PsiDirectoryNode" />
-              <item name="算法" type="462c0819:PsiDirectoryNode" />
+              <item name="学习" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -357,6 +324,7 @@
       <workItem from="1638839598280" duration="228000" />
       <workItem from="1644203614820" duration="1228000" />
       <workItem from="1644204862178" duration="420000" />
+      <workItem from="1658241976901" duration="2061000" />
     </task>
     <task id="LOCAL-00001" summary="feat:Esmodule导入导出关系">
       <created>1607914221438</created>
@@ -456,11 +424,18 @@
       <option name="project" value="LOCAL" />
       <updated>1633938367261</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="feat:study">
+      <created>1658242125730</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1658242125730</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="206224000" />
+    <option name="totallyTimeSpent" value="208285000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -472,9 +447,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="83" y="28" width="1473" height="886" extended-state="0" />
+    <frame x="83" y="28" width="1473" height="886" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47920793" visible="true" weight="0.267645" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47920793" visible="true" weight="0.27113906" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="npm" order="3" sideWeight="0.52079207" side_tool="true" weight="0.25366876" />
@@ -487,7 +463,7 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49957877" weight="0.32994923" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32868022" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32233503" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32233503" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5004212" side_tool="true" weight="0.32994923" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="bottom" id="Eval Reset" order="12" weight="0.32868022" />
@@ -579,16 +555,10 @@
     <MESSAGE value="feat:设计模式 &amp; electron" />
     <MESSAGE value="feat:算法" />
     <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+    <MESSAGE value="feat:study" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:study" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vueplugin/src/components/Test/index.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vueplugin/src/components/Test/h5.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -906,6 +876,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/Node求学之路.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="361">
+            <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
